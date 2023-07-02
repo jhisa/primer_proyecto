@@ -7,4 +7,4 @@ const suma = a + b;
 
 console.log(suma); // 30
 
-222222222222 //se agrego dos
+11111111111111111 //agregue unos
